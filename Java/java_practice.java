@@ -12,7 +12,9 @@ public class Main {
 
     char c = 'a';
 
-    System.out.printIn(char);
+    System.out.println(a);
+    
+    System.out.println("I have chosen this number: " + Integer.toString(284) + " whether you like it or not.");
 
   }
 }
